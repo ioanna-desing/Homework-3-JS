@@ -1,0 +1,22 @@
+body{
+    margin: 70px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+.arrayCars
+{
+   width: 40%;
+   height: 450px;
+   background-color: antiquewhite;
+   margin: 0 30px 50px 0;
+   overflow: hidden;
+   display: flex;
+   flex-wrap: wrap;
+}
+.img
+{
+  width: 70%;
+  height: 70%;
+}
